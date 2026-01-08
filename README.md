@@ -4,7 +4,7 @@ Applied Machine Learning · Structured Data · Deep Learning · Reproducible Pip
 
 This project implements an **end-to-end machine learning pipeline** for classifying mathematical research publications **based solely on their MathML formulas**, without using natural language text.
 
-The work focuses on **structured scientific data**, where input is hierarchical XML rather than plain text — a setting common in scientific, technical, and biomedical domains.
+The work focuses on **structured scientific data**, where input is hierarchical XML rather than plain text, a setting common in scientific, technical, and biomedical domains.
 
 🔒 **Source code is private and available upon request.**
 
